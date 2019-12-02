@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPattern24.iml" filepath="$PROJECT_DIR$/.idea/DesignPattern24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daili/daili.iml" filepath="$PROJECT_DIR$/daili/daili.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhuangshizhe/zhuangshizhe.iml" filepath="$PROJECT_DIR$/zhuangshizhe/zhuangshizhe.iml" />
     </modules>
   </component>
 </project>

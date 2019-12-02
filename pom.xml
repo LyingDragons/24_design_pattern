@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>观察者</module>
+        <module>zhuangshizhe</module>
+        <module>daili</module>
     </modules>
 
     <parent>
