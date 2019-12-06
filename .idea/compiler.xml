@@ -6,22 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="zhaungtai" />
+        <module name="观察者" />
         <module name="zhuangshizhe" />
-        <module name="daili" />
+        <module name="menmian(waiguang)" />
         <module name="guanchazhe" />
+        <module name="daili" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="daili" target="1.8" />
       <module name="DesignPattern24" target="1.8" />
+      <module name="menmian(waiguang)" target="1.8" />
+      <module name="zhaungtai" target="1.8" />
       <module name="zhuangshizhe" target="1.8" />
+      <module name="观察者" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="daili" options="-parameters" />
       <module name="guanchazhe" options="-parameters" />
+      <module name="menmian(waiguang)" options="-parameters" />
+      <module name="zhaungtai" options="-parameters" />
       <module name="zhuangshizhe" options="-parameters" />
+      <module name="观察者" options="-parameters" />
     </option>
   </component>
 </project>

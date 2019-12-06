@@ -9,9 +9,11 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>观察者</module>
+        <module>guanchazhe</module>
         <module>zhuangshizhe</module>
         <module>daili</module>
+        <module>menmian</module>
+        <module>zhaungtai</module>
     </modules>
 
     <parent>
@@ -23,6 +25,13 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.10</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
