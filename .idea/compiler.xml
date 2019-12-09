@@ -9,6 +9,7 @@
         <module name="zhaungtai" />
         <module name="观察者" />
         <module name="zhuangshizhe" />
+        <module name="shipeiqi" />
         <module name="menmian(waiguang)" />
         <module name="guanchazhe" />
         <module name="daili" />
@@ -18,6 +19,7 @@
       <module name="daili" target="1.8" />
       <module name="DesignPattern24" target="1.8" />
       <module name="menmian(waiguang)" target="1.8" />
+      <module name="shipeiqi" target="1.8" />
       <module name="zhaungtai" target="1.8" />
       <module name="zhuangshizhe" target="1.8" />
       <module name="观察者" target="1.8" />
@@ -28,6 +30,7 @@
       <module name="daili" options="-parameters" />
       <module name="guanchazhe" options="-parameters" />
       <module name="menmian(waiguang)" options="-parameters" />
+      <module name="shipeiqi" options="-parameters" />
       <module name="zhaungtai" options="-parameters" />
       <module name="zhuangshizhe" options="-parameters" />
       <module name="观察者" options="-parameters" />
